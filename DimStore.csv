@@ -1,0 +1,13 @@
+StoreID,StoreName,City,Latitude,Longitude,OpenDate,Manager
+2001,Store 1,Mumbai,19.07,72.87,2018-12-20,Manager 1
+2002,Store 2,Delhi,28.61,77.21,2022-01-12,Manager 2
+2003,Store 3,Bengaluru,12.97,77.59,2018-11-09,Manager 3
+2004,Store 4,Hyderabad,17.38,78.48,2019-01-14,Manager 4
+2005,Store 5,Pune,18.52,73.85,2020-03-07,Manager 5
+2006,Store 6,Chennai,13.08,80.27,2019-05-04,Manager 6
+2007,Store 7,Kolkata,22.57,88.36,2022-03-08,Manager 7
+2008,Store 8,Ahmedabad,23.03,72.58,2021-03-06,Manager 8
+2009,Store 9,Jaipur,26.92,75.82,2018-09-08,Manager 9
+2010,Store 10,Lucknow,26.85,80.95,2022-06-10,Manager 10
+2011,Store 11,Bhubaneswar,20.27,85.83,2022-12-07,Manager 11
+2012,Store 12,Surat,21.19,72.83,2022-06-30,Manager 12

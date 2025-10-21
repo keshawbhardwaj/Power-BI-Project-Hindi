@@ -1,0 +1,31 @@
+ProductID,ProductName,Category,BasePrice,IsRecurring
+5001,Service 1,Cleaning,3533.75,0
+5002,Service 2,Home Repair,2846.73,0
+5003,Service 3,Cleaning,2388.8,0
+5004,Service 4,Electronics Repair,1761.27,1
+5005,Service 5,Services,3424.28,0
+5006,Service 6,Cleaning,1407.45,0
+5007,Service 7,Services,2927.98,1
+5008,Service 8,Beauty,438.21,0
+5009,Service 9,Cleaning,4264.15,0
+5010,Service 10,Home Repair,4112.48,0
+5011,Service 11,Beauty,4638.37,0
+5012,Service 12,Cleaning,1149.8,0
+5013,Service 13,Cleaning,3211.24,0
+5014,Service 14,Beauty,907.13,0
+5015,Service 15,Cleaning,4483.94,0
+5016,Service 16,Services,2814.73,0
+5017,Service 17,Wellness,4089.0,0
+5018,Service 18,Wellness,3045.61,0
+5019,Service 19,Cleaning,2213.49,0
+5020,Service 20,Services,4659.34,0
+5021,Service 21,Beauty,426.4,0
+5022,Service 22,Beauty,1001.77,0
+5023,Service 23,Beauty,4637.98,0
+5024,Service 24,Electronics Repair,2018.15,0
+5025,Service 25,Services,2565.97,0
+5026,Service 26,Services,1348.59,0
+5027,Service 27,Beauty,3726.43,0
+5028,Service 28,Cleaning,1789.19,0
+5029,Service 29,Electronics Repair,4580.67,0
+5030,Service 30,Electronics Repair,3628.65,0

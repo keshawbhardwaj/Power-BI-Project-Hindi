@@ -1,0 +1,59 @@
+CustomerID,FirstName,LastName,City,State,CustomerSegment,JoinDate,IsPremium
+1001,Amit,Sharma,Mumbai,Delhi,Wholesale,2024-01-25,0
+1002,Riya,Verma,Mumbai,Telangana,Retail,2024-12-15,0
+1003,Rahul,Patel,Kolkata,Gujarat,Retail,2024-11-29,0
+1004,Priya,Sharma,Chennai,Karnataka,Online,2024-01-26,0
+1005,Siddharth,Verma,Mumbai,Delhi,Retail,2024-02-24,0
+1006,Neha,Patel,Mumbai,Delhi,Retail,2024-05-04,0
+1007,Rakesh,Sharma,Ahmedabad,West Bengal,Wholesale,2024-03-16,1
+1008,Anita,Verma,Delhi,Uttar Pradesh,Wholesale,2024-03-19,0
+1009,Karan,Patel,Delhi,Gujarat,Wholesale,2024-07-26,0
+1010,Simran,Sharma,Chennai,Gujarat,Wholesale,2024-01-31,1
+1011,Vikas,Verma,Delhi,Uttar Pradesh,Wholesale,2024-02-07,0
+1012,Pooja,Patel,Lucknow,Uttar Pradesh,Online,2024-10-18,0
+1013,Vivek,Sharma,Ahmedabad,West Bengal,Retail,2024-01-03,0
+1014,Anjali,Verma,Pune,Uttar Pradesh,Wholesale,2024-07-06,0
+1015,Suman,Patel,Kolkata,West Bengal,Online,2024-07-14,0
+1016,Deepak,Sharma,Kolkata,Tamil Nadu,Retail,2024-04-27,0
+1017,Meera,Verma,Lucknow,Rajasthan,Wholesale,2024-09-13,0
+1018,Nitin,Patel,Kolkata,Rajasthan,Wholesale,2024-04-08,0
+1019,Sakshi,Sharma,Bengaluru,Karnataka,Wholesale,2024-01-02,0
+1020,Arjun,Verma,Kolkata,Gujarat,Wholesale,2024-08-30,0
+1021,Tanya,Patel,Delhi,Rajasthan,Wholesale,2024-06-02,0
+1022,Rohit,Sharma,Jaipur,Maharashtra,Retail,2024-05-12,1
+1023,Kavita,Verma,Pune,Telangana,Retail,2024-10-08,0
+1024,Ritu,Patel,Ahmedabad,Telangana,Online,2024-08-03,0
+1025,Manish,Sharma,Kolkata,Telangana,Retail,2024-09-27,0
+1026,Isha,Verma,Pune,Tamil Nadu,Retail,2024-11-12,0
+1027,Rohini,Patel,Kolkata,Tamil Nadu,Online,2024-02-12,0
+1028,Kunal,Sharma,Chennai,Telangana,Wholesale,2024-11-11,0
+1029,Geeta,Verma,Hyderabad,West Bengal,Wholesale,2024-09-13,0
+1030,Harsh,Patel,Delhi,Rajasthan,Wholesale,2024-08-13,0
+1031,Maya,Sharma,Bengaluru,Karnataka,Online,2024-10-18,0
+1032,Yash,Verma,Chennai,Gujarat,Retail,2024-10-31,0
+1033,Varun,Patel,Ahmedabad,Rajasthan,Wholesale,2024-05-19,0
+1034,Lalit,Sharma,Kolkata,Uttar Pradesh,Wholesale,2024-12-07,0
+1035,Divya,Verma,Kolkata,Maharashtra,Online,2024-09-18,0
+1036,Sonal,Patel,Kolkata,Rajasthan,Online,2024-05-06,0
+1037,Reena,Sharma,Lucknow,Gujarat,Wholesale,2024-08-30,0
+1038,Akhil,Verma,Ahmedabad,Uttar Pradesh,Online,2024-03-21,0
+1039,Naveen,Patel,Hyderabad,Rajasthan,Online,2024-07-16,0
+1040,Bhavna,Sharma,Lucknow,Telangana,Online,2024-05-14,0
+1041,Irfan,Verma,Delhi,Tamil Nadu,Online,2024-01-29,0
+1042,Asha,Patel,Mumbai,Gujarat,Wholesale,2024-12-15,0
+1043,Kiran,Sharma,Bengaluru,Delhi,Wholesale,2024-10-03,0
+1044,Shreya,Verma,Delhi,Karnataka,Wholesale,2024-03-07,0
+1045,Lokesh,Patel,Hyderabad,Gujarat,Wholesale,2024-10-11,0
+1046,Shruti,Sharma,Mumbai,West Bengal,Retail,2024-02-11,0
+1047,Gaurav,Verma,Ahmedabad,Delhi,Online,2024-11-26,0
+1048,Hetal,Patel,Bengaluru,Tamil Nadu,Retail,2024-09-13,0
+1049,Raman,Sharma,Jaipur,Tamil Nadu,Wholesale,2024-03-25,0
+1050,Leena,Verma,Lucknow,Karnataka,Retail,2024-02-04,0
+1051,Suresh,Patel,Kolkata,Delhi,Online,2024-06-17,0
+1052,Richa,Sharma,Pune,Maharashtra,Online,2024-10-19,0
+1053,Tarun,Verma,Kolkata,Rajasthan,Retail,2024-10-02,0
+1054,Priyanka,Patel,Kolkata,Gujarat,Online,2024-01-26,1
+1055,Sameer,Sharma,Chennai,Gujarat,Wholesale,2024-02-07,1
+1056,Nidhi,Verma,Pune,Karnataka,Retail,2024-12-14,1
+1057,Ajay,Patel,Chennai,Maharashtra,Wholesale,2024-01-31,1
+1058,Neelam,Sharma,Delhi,Tamil Nadu,Retail,2024-05-31,0
